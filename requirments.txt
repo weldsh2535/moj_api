@@ -1,0 +1,13 @@
+Django==5.0.3
+django-cors-headers==4.3.1
+django-dotenv==1.4.2
+djangorestframework==3.15.0
+mysqlclient==2.2.4
+Pillow==10.4.0
+
+# python -m venv myenv
+# source myenv/bin/activate  # On macOS/Linux
+# myenv\Scripts\activate  # On Windows
+
+# pip install django
+# django-admin startproject moj_api
